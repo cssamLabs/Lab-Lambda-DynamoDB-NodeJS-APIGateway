@@ -1,6 +1,8 @@
 # Lab-Lambda-DynamoDB-NodeJS-APIGateway
  
-Create DynamoDB table and configure fields as : https://github.com/cssamLabs/AWS-Configuration-DynamoDB/blob/4a6bff134ab9d9a7d93fe3e5f36ccbd90c22a059/README.md
+Create DynamoDB table and configure fields as : [DynamoDB Configuration]( https://github.com/cssamLabs/AWS-Configuration-DynamoDB/blob/4a6bff134ab9d9a7d93fe3e5f36ccbd90c22a059/README.md)
+
+Create Lambda Functions as : [Create Lamba](https://github.com/cssamLabs/AWS-Configuration-Lambda-ApiGateway/blob/133e941db1fd11307ba919a134b8c2157b1fc8a3/README.md)
 
 Write the Lambda Hander
 
